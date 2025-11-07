@@ -1,0 +1,5 @@
+# Virtuális környezet és Streamlit/Data
+.venv/
+__pycache__/
+data/
+*.db

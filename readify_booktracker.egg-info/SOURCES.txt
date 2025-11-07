@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+readify/__init__.py
+readify/analytics.py
+readify/api.py
+readify/cli.py
+readify/models.py
+readify/storage.py
+readify_booktracker.egg-info/PKG-INFO
+readify_booktracker.egg-info/SOURCES.txt
+readify_booktracker.egg-info/dependency_links.txt
+readify_booktracker.egg-info/top_level.txt
+tests/test_core.py
