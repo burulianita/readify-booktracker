@@ -24,7 +24,6 @@ pydeck==0.9.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
 # Editable Git install with no remote (readify-booktracker==0.1.0)
--e c:\dev\readify
 referencing==0.37.0
 requests==2.32.5
 rpds-py==0.28.0
